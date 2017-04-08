@@ -1,0 +1,13 @@
+<style>
+/* ---------- Excerpts ----------*/
+
+    .ms-vb2  .ms-rtestate-field{
+        max-width:250px;
+        max-height:45px;
+        overflow:hidden;
+    }
+    .ms-vb2  .ms-rtestate-field:hover{
+        max-height:none;
+
+    }
+</style>
