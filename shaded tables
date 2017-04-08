@@ -1,0 +1,19 @@
+<style>
+
+/* ---------- Table Rows ----------*/
+	/* Set background for every row */
+		.ms-listviewtable > tbody > tr {
+			background: white;
+		}
+
+	/* Set border for every row */
+		.ms-listviewtable > tbody > tr td{
+			border-bottom: 0px solid #AFAFAF !important; /* !important needed over override SharePoint inline style */
+		}
+
+	/* Set background for every alternating row */
+		.ms-listviewtable > tbody > tr.ms-alternating {
+			background: #f7f7f7;
+		}
+    
+</style>
